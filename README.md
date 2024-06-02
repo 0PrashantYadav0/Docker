@@ -106,7 +106,3 @@ This command gracefully stops a running container. Replace `<container_name_or_i
 - **Best Practices:** Refer to Docker best practices for creating efficient and secure images. Explore resources like the Docker documentation for in-depth guidance: [https://docs.docker.com/](https://docs.docker.com/)
 
 By following these steps and leveraging the provided explanations, you'll be well-equipped to construct custom Docker images for your projects!
-
-#### Note
-
-Docker ignore file is not working .....
